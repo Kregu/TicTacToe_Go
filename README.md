@@ -1,1 +1,1 @@
-# TicTacToe_GPT
+# TicTacToe_Go
